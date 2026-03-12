@@ -21,16 +21,21 @@
 ### 🎮 Game Engines & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white" /> -->
 </p>
 
 ### 🤝 Collaboration Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/Fork-0060E6?style=for-the-badge&logo=greasyfork&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Desktop-4E2A8E?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white" />
+  <!--
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Desktop-4E2A8E?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  -->
 </p>
 
 ### 🧩 Supporting Tools & Platforms
@@ -44,4 +49,6 @@
 
 ## Contact
 - 📧 Email: tapasse12@gmail.com
-- 📚 Blog: [velog](https://velog.io/@papasse/posts)
+- 📚 Blog
+  - [tistory](https://devpkh.tistory.com)
+  - [velog](https://velog.io/@papasse/posts)
